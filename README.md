@@ -30,6 +30,11 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 2. Criar um arquivo chamado ```resultado.txt```. Dentro desse arquivo, colocar as 10 palavras que mais são usadas no livro, de acordo com o resultado do Job.
 3. Inserir os arquivo ```resultado.txt``` e ```part-00000``` no repositório e informar na plataforma da Digital Innovation One.
 
+### Execução do desafio
+
+1. Fazer download do arquivo ```part-00000``` resultante no job.
+2. Executar o arquivo ```criar_resultado.py``` para criar o arquivo ```resultado.txt``` com as solicitações requeridas.
+
 ---
 
 ### Considerações Finais
